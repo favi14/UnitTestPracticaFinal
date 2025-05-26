@@ -96,3 +96,8 @@ F:\UnitTestPracticaFin\PracticaFinal.Tests\obj\Debug\net9.0\refint\PracticaFinal
 F:\UnitTestPracticaFin\PracticaFinal.Tests\obj\Debug\net9.0\PracticaFinal.Tests.pdb
 F:\UnitTestPracticaFin\PracticaFinal.Tests\obj\Debug\net9.0\PracticaFinal.Tests.genruntimeconfig.cache
 F:\UnitTestPracticaFin\PracticaFinal.Tests\obj\Debug\net9.0\ref\PracticaFinal.Tests.dll
+F:\UnitTestPracticaFin\PracticaFinal.Tests\bin\Debug\net9.0\Castle.Core.dll
+F:\UnitTestPracticaFin\PracticaFinal.Tests\bin\Debug\net9.0\Moq.dll
+F:\UnitTestPracticaFin\PracticaFinal.Tests\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+F:\UnitTestPracticaFin\PracticaFinal.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\UnitTestPracticaFin\PracticaFinal.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

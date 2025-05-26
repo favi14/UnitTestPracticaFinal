@@ -8,7 +8,7 @@ namespace PracticaFinal.Tests
     public class StudentControllerTests
     {
         [Fact]
-        public void Student_withValidCIAndOver18Age_IsAprob()
+        public void Student_withValidCIAndOver51Nota_IsAprob()
         {
             // Arrange
             var studentService = new Mock<IStudentService>();
